@@ -18,7 +18,7 @@ A modern, responsive personal trainer website built with Vue 3.
 Designed for trainers who want to showcase their services, attract clients, and allow online bookings—all with a clean, professional, and mobile-friendly layout.
 
 ### Previews
-- [Preview home](previews/preview.png)
+- [Preview home](preview.png)
 
 ### Features
 
